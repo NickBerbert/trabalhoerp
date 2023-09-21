@@ -1,1 +1,10 @@
-contabilidade
+Aqui estão algumas das principais características e funcionalidades da contabilidade em um sistema ERP:
+Registro de Transações Financeiras: O módulo de contabilidade permite que as empresas registrem todas as transações financeiras, como vendas, compras, despesas, pagamentos e recebimentos. Essas transações são registradas em contas específicas, como contas a receber, contas a pagar, caixa, bancos e outros.
+
+Gestão de Contas Financeiras: Os sistemas ERP de contabilidade permitem a criação e o gerenciamento de contas financeiras, como contas bancárias, contas de ativos e passivos, contas de despesas e receitas. Isso ajuda a manter o controle sobre os recursos financeiros da empresa.
+
+Conciliação Bancária: A funcionalidade de conciliação bancária permite que as empresas comparem suas transações financeiras registradas no ERP com as informações bancárias reais, garantindo que não haja discrepâncias e que todas as transações estejam em conformidade.
+
+Geração de Demonstrativos Financeiros: Os sistemas ERP de contabilidade podem gerar demonstrativos financeiros, como balanço patrimonial, demonstração de resultados (DRE) e fluxo de caixa. Esses relatórios fornecem uma visão clara da saúde financeira da empresa.
+
+Controle de Orçamento: A funcionalidade de contabilidade permite que as empresas estabeleçam e controlem orçamentos. Os gestores podem comparar os gastos reais com o orçamento planejado e tomar medidas corretivas, se necessário.
