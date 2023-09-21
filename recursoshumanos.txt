@@ -1,1 +1,11 @@
-recursos humanos
+A funcionalidade de Recursos Humanos (RH) em um sistema ERP (Enterprise Resource Planning) desempenha um papel fundamental na gestão eficaz dos recursos humanos de uma organização. Ela abrange uma ampla gama de atividades relacionadas a funcionários, desde o recrutamento até a gestão de benefícios e a administração de pessoal. Aqui estão as principais características e funcionalidades da área de Recursos Humanos em um ERP:
+
+Cadastro de Funcionários: O ERP permite o registro detalhado de informações de todos os funcionários da empresa, incluindo dados pessoais, informações de contato e histórico de emprego.
+
+Recrutamento e Seleção: A funcionalidade de RH ajuda na criação e publicação de vagas, na triagem de currículos, na programação de entrevistas e na tomada de decisões de contratação. Isso pode incluir integração com plataformas de recrutamento online.
+
+Gestão de Benefícios: Os sistemas de RH de ERP permitem que a empresa gerencie benefícios oferecidos aos funcionários, como planos de saúde, planos de aposentadoria, seguro de vida e outros. Isso inclui a inscrição, manutenção e acompanhamento de benefícios.
+
+Controle de Horas e Frequência: O ERP permite que os funcionários registrem suas horas de trabalho e presença, além de controlar horas extras e faltas. Isso facilita a folha de pagamento e a gestão do tempo.
+
+Folha de Pagamento: A funcionalidade de RH em um ERP automatiza o cálculo da folha de pagamento, incluindo salários, impostos, contribuições, bônus e deduções. Também ajuda a gerar relatórios fiscais e documentos para os funcionários.
