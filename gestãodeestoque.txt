@@ -1,1 +1,7 @@
-gestão de estoque
+A funcionalidade de gestão de estoque em um sistema ERP (Enterprise Resource Planning) é fundamental para controlar e otimizar o estoque de uma organização. Essa funcionalidade permite que a empresa acompanhe, gerencie e otimize seus níveis de estoque de maneira eficiente. Aqui estão as principais características e funcionalidades da área de gestão de estoque em um ERP:
+
+Controle de Inventário: A funcionalidade de gestão de estoque permite que a empresa acompanhe e mantenha um registro preciso de todos os itens em seu estoque. Isso inclui produtos acabados, matérias-primas, componentes e quaisquer outros itens relacionados à operação.
+
+Gestão de Lotes e Séries: Para empresas que lidam com produtos que têm datas de validade ou números de série, o ERP permite o rastreamento detalhado desses itens. Isso é essencial em setores como alimentos e produtos farmacêuticos.
+
+Recebimento de Mercadorias: A funcionalidade de gestão de estoque ajuda a empresa a registrar e verificar as mercadorias recebidas. Isso inclui a conferência de quantidades e qualidade das mercadorias recebidas em comparação com os pedidos.
