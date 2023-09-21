@@ -1,0 +1,2 @@
+Baseline: É uma versão específica do software que serve como referência estável. Você pode criar baselines após mesclar funcionalidades no ramo principal (main) e marcar essa versão como uma baseline estável.
+Mainline: A branch principal (main) é a mainline. Ela contém o código sempre atualizado e funcional do projeto.
